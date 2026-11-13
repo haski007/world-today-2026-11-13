@@ -54,9 +54,10 @@ The stories were collected on 13 November 2026 from the RSS feeds and front
 pages of international outlets. A story went on the image only if it was dated
 13 November and carried by at least two outlets. Disputed claims stay
 attributed on the image ("Iran says ... US denies", "Pakistan army says",
-"Moscow blames Kyiv"). Two figures appear: the Assam toll, given as "at least
-24" as the wire reports agreed, and the Pakistan army's own count, attributed
-to the army.
+"Moscow blames Kyiv"). Three figures appear: the Assam toll, given as "at
+least 24" as the wire reports agreed; the Pakistan army's own count, attributed
+to the army; and the "nearly 1,200" drones Kyiv fired at Russia, as AP and
+France 24 reported.
 
 The layout was chosen by comparing candidate images in pairs against the
 competition's published judging criteria: the day's specific events first,
